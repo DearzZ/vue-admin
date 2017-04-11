@@ -139,8 +139,7 @@
 </script>
 
 <style scoped lang="scss">
-	@import '~scss_vars';
-	
+
 	.container {
 		position: absolute;
 		top: 0px;
@@ -149,7 +148,7 @@
 		.header {
 			height: 60px;
 			line-height: 60px;
-			background: $color-primary;
+			background: #20a0ff;
 			color:#fff;
 			.userinfo {
 				text-align: right;
